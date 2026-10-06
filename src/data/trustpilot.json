@@ -1,0 +1,229 @@
+{
+"scrapedAt": "2026-10-06",
+"items": [
+{
+"domain": "revid.ai",
+"name": "Revid",
+"category": "tmaker",
+"trustScore": 4.0,
+"reviews": 304,
+"stars": {
+"5": 52,
+"4": 16,
+"3": 3,
+"2": 3,
+"1": 26
+}
+},
+{
+"domain": "outrank.so",
+"name": "Outrank",
+"category": "tmaker",
+"trustScore": 3.7,
+"reviews": 90,
+"stars": {
+"5": 68,
+"4": 4,
+"3": 0,
+"2": 1,
+"1": 27
+}
+},
+{
+"domain": "postsyncer.com",
+"name": "Postsyncer",
+"category": "tmaker",
+"trustScore": 3.6,
+"reviews": 7,
+"stars": {
+"5": 71,
+"4": 0,
+"3": 0,
+"2": 0,
+"1": 29
+}
+},
+{
+"domain": "synthesia.io",
+"name": "Synthesia",
+"category": "ai-video",
+"trustScore": 3.8,
+"reviews": 1828,
+"stars": {
+"5": 72,
+"4": 11,
+"3": 2,
+"2": 2,
+"1": 13
+}
+},
+{
+"domain": "heygen.com",
+"name": "HeyGen",
+"category": "ai-video",
+"trustScore": 4.1,
+"reviews": 4142,
+"stars": {
+"5": 68,
+"4": 9,
+"3": 4,
+"2": 4,
+"1": 15
+}
+},
+{
+"domain": "invideo.io",
+"name": "Invideo Studio",
+"category": "ai-video",
+"trustScore": 1.8,
+"reviews": 1019,
+"stars": {
+"5": 57,
+"4": 4,
+"3": 3,
+"2": 4,
+"1": 32
+}
+},
+{
+"domain": "pictory.ai",
+"name": "Pictory.ai",
+"category": "ai-video",
+"trustScore": 4.2,
+"reviews": 657,
+"stars": {
+"5": 66,
+"4": 10,
+"3": 3,
+"2": 3,
+"1": 18
+}
+},
+{
+"domain": "opus.pro",
+"name": "OpusClip",
+"category": "ai-video",
+"trustScore": 4.0,
+"reviews": 504,
+"stars": {
+"5": 63,
+"4": 9,
+"3": 4,
+"2": 4,
+"1": 20
+}
+},
+{
+"domain": "fliki.ai",
+"name": "Fliki",
+"category": "ai-video",
+"trustScore": 4.2,
+"reviews": 3041,
+"stars": {
+"5": 81,
+"4": 12,
+"3": 2,
+"2": 0,
+"1": 4
+}
+},
+{
+"domain": "higgsfield.ai",
+"name": "Higgsfield AI",
+"category": "ai-video",
+"trustScore": 4.0,
+"reviews": 4827,
+"stars": {
+"5": 63,
+"4": 11,
+"3": 4,
+"2": 3,
+"1": 19
+}
+},
+{
+"domain": "creatify.ai",
+"name": "Creatify",
+"category": "ai-video",
+"trustScore": 3.8,
+"reviews": 834,
+"stars": {
+"5": 77,
+"4": 5,
+"3": 0,
+"2": 0,
+"1": 17
+}
+},
+{
+"domain": "arcads.ai",
+"name": "Arcads AI",
+"category": "ai-video",
+"trustScore": 2.6,
+"reviews": 180,
+"stars": {
+"5": 42,
+"4": 4,
+"3": 2,
+"2": 5,
+"1": 47
+}
+},
+{
+"domain": "pollo.ai",
+"name": "Pollo AI",
+"category": "ai-video",
+"trustScore": 4.3,
+"reviews": 5520,
+"stars": {
+"5": 71,
+"4": 11,
+"3": 4,
+"2": 3,
+"1": 11
+}
+},
+{
+"domain": "captions.ai",
+"name": "Captions",
+"category": "ai-video",
+"trustScore": 4.4,
+"reviews": 486,
+"stars": {
+"5": 68,
+"4": 8,
+"3": 2,
+"2": 2,
+"1": 20
+}
+},
+{
+"domain": "veed.io",
+"name": "VEED",
+"category": "ai-video",
+"trustScore": 4.2,
+"reviews": 3890,
+"stars": {
+"5": 70,
+"4": 9,
+"3": 3,
+"2": 3,
+"1": 15
+}
+},
+{
+"domain": "descript.com",
+"name": "descript",
+"category": "ai-video",
+"trustScore": 2.6,
+"reviews": 290,
+"stars": {
+"5": 37,
+"4": 7,
+"3": 3,
+"2": 10,
+"1": 43
+}
+}
+]
+}

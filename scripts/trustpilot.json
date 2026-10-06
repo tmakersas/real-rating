@@ -1,0 +1,1126 @@
+{
+  "scrapedAt": "2026-10-06",
+  "source": "trustpilot.com public company pages",
+  "items": [
+    {
+      "domain": "revid.ai",
+      "name": "Revid",
+      "category": "tmaker",
+      "trustScore": 4.0,
+      "reviews": 304,
+      "stars": {
+        "5": 52,
+        "4": 16,
+        "3": 3,
+        "2": 3,
+        "1": 26
+      },
+      "claimed": true,
+      "missing": false,
+      "status": "ok"
+    },
+    {
+      "domain": "outrank.so",
+      "name": "Outrank",
+      "category": "tmaker",
+      "trustScore": 3.7,
+      "reviews": 90,
+      "stars": {
+        "5": 68,
+        "4": 4,
+        "3": 0,
+        "2": 1,
+        "1": 27
+      },
+      "claimed": true,
+      "missing": false,
+      "status": "ok"
+    },
+    {
+      "domain": "superx.so",
+      "name": null,
+      "category": "tmaker",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": true,
+      "status": "not_found",
+      "note": "Scraper returned not_found twice (no Trustpilot profile at this domain)"
+    },
+    {
+      "domain": "postsyncer.com",
+      "name": "Postsyncer",
+      "category": "tmaker",
+      "trustScore": 3.6,
+      "reviews": 7,
+      "stars": {
+        "5": 71,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 29
+      },
+      "claimed": true,
+      "missing": false,
+      "status": "ok"
+    },
+    {
+      "domain": "feather.so",
+      "name": null,
+      "category": "tmaker",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": true,
+      "status": "not_found",
+      "note": "Scraper returned not_found twice (no Trustpilot profile at this domain)"
+    },
+    {
+      "domain": "synthesia.io",
+      "name": "Synthesia",
+      "category": "ai-video",
+      "trustScore": 3.8,
+      "reviews": 1828,
+      "stars": {
+        "5": 72,
+        "4": 11,
+        "3": 2,
+        "2": 2,
+        "1": 13
+      },
+      "claimed": true,
+      "missing": false,
+      "status": "ok"
+    },
+    {
+      "domain": "heygen.com",
+      "name": "HeyGen",
+      "category": "ai-video",
+      "trustScore": 4.1,
+      "reviews": 4142,
+      "stars": {
+        "5": 68,
+        "4": 9,
+        "3": 4,
+        "2": 4,
+        "1": 15
+      },
+      "claimed": true,
+      "missing": false,
+      "status": "ok"
+    },
+    {
+      "domain": "invideo.io",
+      "name": "Invideo Studio",
+      "category": "ai-video",
+      "trustScore": 1.8,
+      "reviews": 1019,
+      "stars": {
+        "5": 57,
+        "4": 4,
+        "3": 3,
+        "2": 4,
+        "1": 32
+      },
+      "claimed": true,
+      "missing": false,
+      "status": "ok"
+    },
+    {
+      "domain": "pictory.ai",
+      "name": "Pictory.ai",
+      "category": "ai-video",
+      "trustScore": 4.2,
+      "reviews": 657,
+      "stars": {
+        "5": 66,
+        "4": 10,
+        "3": 3,
+        "2": 3,
+        "1": 18
+      },
+      "claimed": true,
+      "missing": false,
+      "status": "ok"
+    },
+    {
+      "domain": "opus.pro",
+      "name": "OpusClip",
+      "category": "ai-video",
+      "trustScore": 4.0,
+      "reviews": 504,
+      "stars": {
+        "5": 63,
+        "4": 9,
+        "3": 4,
+        "2": 4,
+        "1": 20
+      },
+      "claimed": true,
+      "missing": false,
+      "status": "ok"
+    },
+    {
+      "domain": "fliki.ai",
+      "name": "Fliki",
+      "category": "ai-video",
+      "trustScore": 4.2,
+      "reviews": 3041,
+      "stars": {
+        "5": 81,
+        "4": 12,
+        "3": 2,
+        "2": 0,
+        "1": 4
+      },
+      "claimed": true,
+      "missing": false,
+      "status": "ok",
+      "note": "2-star displayed as <1% (recorded as 0)"
+    },
+    {
+      "domain": "higgsfield.ai",
+      "name": "Higgsfield AI",
+      "category": "ai-video",
+      "trustScore": 4.0,
+      "reviews": 4827,
+      "stars": {
+        "5": 63,
+        "4": 11,
+        "3": 4,
+        "2": 3,
+        "1": 19
+      },
+      "claimed": true,
+      "missing": false,
+      "status": "ok"
+    },
+    {
+      "domain": "creatify.ai",
+      "name": "Creatify",
+      "category": "ai-video",
+      "trustScore": 3.8,
+      "reviews": 834,
+      "stars": {
+        "5": 77,
+        "4": 5,
+        "3": 0,
+        "2": 0,
+        "1": 17
+      },
+      "claimed": true,
+      "missing": false,
+      "status": "ok",
+      "note": "3-star displayed as <1%; 2-star displayed as <1% (recorded as 0)"
+    },
+    {
+      "domain": "arcads.ai",
+      "name": "Arcads AI",
+      "category": "ai-video",
+      "trustScore": 2.6,
+      "reviews": 180,
+      "stars": {
+        "5": 42,
+        "4": 4,
+        "3": 2,
+        "2": 5,
+        "1": 47
+      },
+      "claimed": true,
+      "missing": false,
+      "status": "ok"
+    },
+    {
+      "domain": "pollo.ai",
+      "name": "Pollo AI",
+      "category": "ai-video",
+      "trustScore": 4.3,
+      "reviews": 5520,
+      "stars": {
+        "5": 71,
+        "4": 11,
+        "3": 4,
+        "2": 3,
+        "1": 11
+      },
+      "claimed": true,
+      "missing": false,
+      "status": "ok"
+    },
+    {
+      "domain": "captions.ai",
+      "name": "Captions",
+      "category": "ai-video",
+      "trustScore": 4.4,
+      "reviews": 486,
+      "stars": {
+        "5": 68,
+        "4": 8,
+        "3": 2,
+        "2": 2,
+        "1": 20
+      },
+      "claimed": true,
+      "missing": false,
+      "status": "ok"
+    },
+    {
+      "domain": "veed.io",
+      "name": "VEED",
+      "category": "ai-video",
+      "trustScore": 4.2,
+      "reviews": 3890,
+      "stars": {
+        "5": 70,
+        "4": 9,
+        "3": 3,
+        "2": 3,
+        "1": 15
+      },
+      "claimed": true,
+      "missing": false,
+      "status": "ok"
+    },
+    {
+      "domain": "descript.com",
+      "name": "descript",
+      "category": "ai-video",
+      "trustScore": 2.6,
+      "reviews": 290,
+      "stars": {
+        "5": 37,
+        "4": 7,
+        "3": 3,
+        "2": 10,
+        "1": 43
+      },
+      "claimed": true,
+      "missing": false,
+      "status": "ok"
+    },
+    {
+      "domain": "runwayml.com",
+      "name": null,
+      "category": "ai-video",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "capcut.com",
+      "name": null,
+      "category": "ai-video",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "facelessreels.com",
+      "name": null,
+      "category": "ai-video",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "klingai.com",
+      "name": null,
+      "category": "ai-video",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "semrush.com",
+      "name": null,
+      "category": "seo-writing",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "ahrefs.com",
+      "name": null,
+      "category": "seo-writing",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "surferseo.com",
+      "name": null,
+      "category": "seo-writing",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "jasper.ai",
+      "name": null,
+      "category": "seo-writing",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "seowriting.ai",
+      "name": null,
+      "category": "seo-writing",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "koala.sh",
+      "name": null,
+      "category": "seo-writing",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "writesonic.com",
+      "name": null,
+      "category": "seo-writing",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "frase.io",
+      "name": null,
+      "category": "seo-writing",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "byword.ai",
+      "name": null,
+      "category": "seo-writing",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "rytr.me",
+      "name": null,
+      "category": "seo-writing",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "buffer.com",
+      "name": null,
+      "category": "social-scheduling",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "hootsuite.com",
+      "name": null,
+      "category": "social-scheduling",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "later.com",
+      "name": null,
+      "category": "social-scheduling",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "typefully.com",
+      "name": null,
+      "category": "social-scheduling",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "hypefury.com",
+      "name": null,
+      "category": "social-scheduling",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "metricool.com",
+      "name": null,
+      "category": "social-scheduling",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "publer.com",
+      "name": null,
+      "category": "social-scheduling",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "tweethunter.io",
+      "name": null,
+      "category": "social-scheduling",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "sproutsocial.com",
+      "name": null,
+      "category": "social-scheduling",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "openai.com",
+      "name": null,
+      "category": "ai-assistants",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "claude.ai",
+      "name": null,
+      "category": "ai-assistants",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "perplexity.ai",
+      "name": null,
+      "category": "ai-assistants",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "midjourney.com",
+      "name": null,
+      "category": "ai-assistants",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "elevenlabs.io",
+      "name": null,
+      "category": "ai-assistants",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "suno.com",
+      "name": null,
+      "category": "ai-assistants",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "lovable.dev",
+      "name": null,
+      "category": "ai-assistants",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "bolt.new",
+      "name": null,
+      "category": "ai-assistants",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "cursor.com",
+      "name": null,
+      "category": "ai-assistants",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "replit.com",
+      "name": null,
+      "category": "ai-assistants",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "grammarly.com",
+      "name": null,
+      "category": "ai-assistants",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "framer.com",
+      "name": null,
+      "category": "builders-and-tools",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "webflow.com",
+      "name": null,
+      "category": "builders-and-tools",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "notion.so",
+      "name": null,
+      "category": "builders-and-tools",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "canva.com",
+      "name": null,
+      "category": "builders-and-tools",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "figma.com",
+      "name": null,
+      "category": "builders-and-tools",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "stripe.com",
+      "name": null,
+      "category": "builders-and-tools",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "vercel.com",
+      "name": null,
+      "category": "builders-and-tools",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "wix.com",
+      "name": null,
+      "category": "builders-and-tools",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "squarespace.com",
+      "name": null,
+      "category": "builders-and-tools",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "shopify.com",
+      "name": null,
+      "category": "builders-and-tools",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    },
+    {
+      "domain": "zapier.com",
+      "name": null,
+      "category": "builders-and-tools",
+      "trustScore": null,
+      "reviews": null,
+      "stars": {
+        "5": null,
+        "4": null,
+        "3": null,
+        "2": null,
+        "1": null
+      },
+      "claimed": null,
+      "missing": null,
+      "status": "not_scraped",
+      "note": "Not fetched: scraper returned 'turn_cap' (per-turn scrape limit hit after 20 calls)"
+    }
+  ]
+}
