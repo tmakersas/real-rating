@@ -11,7 +11,7 @@ const serif = Instrument_Serif({
   style: ["normal", "italic"],
 });
 
-const SITE = process.env.NEXT_PUBLIC_SITE_URL || "https://real-rating.vercel.app";
+const SITE = process.env.NEXT_PUBLIC_SITE_URL || "https://real-rating-chi.vercel.app";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE),

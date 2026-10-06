@@ -2,7 +2,7 @@
 
 4.7 stars is average. This site re-scores App Store ratings against the real spread of their own category.
 
-Live: https://real-rating.vercel.app
+Live: https://real-rating-chi.vercel.app
 
 ## How it works
 
