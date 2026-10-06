@@ -256,6 +256,10 @@ export default function Home() {
           made by{" "}
           <a href="https://x.com/tibo_maker" className="text-white/70 hover:text-white">
             @tibo_maker
+          </a>{" "}
+          ·{" "}
+          <a href="https://github.com/tmakersas/real-rating" className="hover:text-white">
+            source
           </a>
         </span>
         <span>

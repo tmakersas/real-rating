@@ -33,7 +33,7 @@ function toResult(a: ITunesApp): AppResult | null {
   const genre = a.primaryGenreName ?? "All apps";
   return {
     id: a.trackId,
-    name: a.trackName,
+    name: a.trackName.replace(/\u2014/g, "-"),
     seller: a.sellerName ?? "",
     genre,
     icon: (a.artworkUrl512 || a.artworkUrl100 || "").replace("http://", "https://"),

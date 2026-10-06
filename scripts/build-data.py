@@ -39,7 +39,7 @@ json.dump({"fetchedAt": raw["fetchedAt"], "prior": PRIOR, "minCount": MINC,
            "genres": genres}, open("src/data/genres.json","w"), separators=(",",":"))
 # compact field for the hero: [rating, real, genreIdx, count, id, name]
 gl = sorted(set(a["genre"] for a in out))
-field = {"genres": gl, "apps": [[round(a["rating"],3), a["real"], gl.index(a["genre"]), a["count"], a["id"], a["name"][:40]] for a in out]}
+field = {"genres": gl, "apps": [[round(a["rating"],3), a["real"], gl.index(a["genre"]), a["count"], a["id"], a["name"].replace("\u2014","-")[:40]] for a in out]}
 json.dump(field, open("src/data/field.json","w"), separators=(",",":"), ensure_ascii=False)
 json.dump(out, open("scripts/scored.json","w"))
 rs = sorted(a["rating"] for a in out)
