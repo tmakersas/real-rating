@@ -15,7 +15,7 @@ allmean = st.mean(a["rating"] for a in apps)
 def adj(r, n, mu): return (n*r + PRIOR*mu) / (n + PRIOR)
 genres = {}
 def mk(name, lst):
-    mu = st.mean(a["rating"] for a in lst)
+    mu = st.median(a["rating"] for a in lst)  # shrink toward the median, so an app with no signal lands at 3.0
     ad = sorted(adj(a["rating"], a["count"], mu) for a in lst)
     rs = sorted(a["rating"] for a in lst)
     q = lambda p: rs[min(len(rs)-1, int(p*len(rs)))]

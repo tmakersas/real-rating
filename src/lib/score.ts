@@ -51,7 +51,7 @@ export function verdictFor(real: number) {
 /** Re-score a public star rating against the real spread of its category. */
 export function scoreApp(stars: number, count: number, genre: string): Scored {
   const g = GENRES[genre] ?? GENRES["All apps"];
-  const adjusted = (count * stars + PRIOR * g.mean) / (count + PRIOR);
+  const adjusted = (count * stars + PRIOR * g.mean) / (count + PRIOR); // g.mean holds the category median
   const lo = bisect(g.adj, adjusted, false);
   const hi = bisect(g.adj, adjusted, true);
   const p = (lo + hi) / 2 / g.adj.length;

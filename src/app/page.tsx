@@ -232,7 +232,7 @@ export default function Home() {
           <div>
             <div className="font-mono text-xs text-[#FFC83D]">02 · the shrink</div>
             <p className="mt-2">
-              Small apps get pulled toward their category average, as if {PRIOR} average ratings were added to every app. A
+              Small apps get pulled toward the middle of their category, as if {PRIOR} middle-of-the-pack ratings were added to every app. A
               5.0 from 12 people doesn&apos;t beat a 4.8 from 2 million.
             </p>
           </div>
