@@ -1,4 +1,5 @@
 "use client";
+import { BASE } from "@/lib/base";
 
 import { useCallback, useEffect, useRef, useState } from "react";
 import { AnimatePresence, motion } from "motion/react";
@@ -50,7 +51,7 @@ export default function Experience({ apps, genres, callouts, medianStars, totalA
     setLoading(true);
     setError(null);
     try {
-      const res = await fetch(`/api/search?q=${encodeURIComponent(t)}`);
+      const res = await fetch(`${BASE}/api/search?q=${encodeURIComponent(t)}`);
       const data = await res.json();
       if (!res.ok) throw new Error(data.error || "Search failed");
       setResults(data.results);
@@ -167,7 +168,7 @@ function ResultRow({ r, i }: { r: Result; i: number }) {
   return (
     <motion.a
       layout
-      href={`/app/${r.id}`}
+      href={`${BASE}/app/${r.id}`}
       initial={{ opacity: 0, y: 16 }}
       animate={{ opacity: 1, y: 0 }}
       exit={{ opacity: 0 }}

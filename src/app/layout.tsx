@@ -11,7 +11,7 @@ const serif = Instrument_Serif({
   style: ["normal", "italic"],
 });
 
-const SITE = process.env.NEXT_PUBLIC_SITE_URL || "https://real-rating-chi.vercel.app";
+import { SITE } from "@/lib/base";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE),
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "4.7 stars is average.",
     description: "I re-scored 4,883 top iPhone apps against their own category. Type yours.",
-    images: [{ url: "/api/og", width: 1200, height: 630 }],
+    images: [{ url: `${SITE}/api/og`, width: 1200, height: 630 }],
     type: "website",
   },
   twitter: {
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     creator: "@tibo_maker",
     title: "4.7 stars is average.",
     description: "I re-scored 4,883 top iPhone apps against their own category. Type yours.",
-    images: ["/api/og"],
+    images: [`${SITE}/api/og`],
   },
 };
 

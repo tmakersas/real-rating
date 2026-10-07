@@ -1,3 +1,4 @@
+import { SITE } from "@/lib/base";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -20,9 +21,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title,
     description,
-    alternates: { canonical: `/app/${id}` },
-    openGraph: { title, description, images: [{ url: `/api/og?id=${id}`, width: 1200, height: 630 }] },
-    twitter: { card: "summary_large_image", title, description, images: [`/api/og?id=${id}`], creator: "@tibo_maker" },
+    alternates: { canonical: `${SITE}/app/${id}` },
+    openGraph: { title, description, images: [{ url: `${SITE}/api/og?id=${id}`, width: 1200, height: 630 }] },
+    twitter: { card: "summary_large_image", title, description, images: [`${SITE}/api/og?id=${id}`], creator: "@tibo_maker" },
   };
 }
 

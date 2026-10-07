@@ -1,8 +1,9 @@
 "use client";
+import { BASE } from "@/lib/base";
 
 export default function ShareButton({ text, path }: { text: string; path: string }) {
   const onClick = () => {
-    const url = `${window.location.origin}${path}`;
+    const url = `${window.location.origin}${BASE}${path}`;
     const intent = `https://x.com/intent/post?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}`;
     window.open(intent, "_blank", "noopener,noreferrer");
   };

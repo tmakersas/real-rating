@@ -1,3 +1,4 @@
+import { BASE } from "@/lib/base";
 import field from "@/data/field.json";
 import Experience from "@/components/Experience";
 import Ticker from "@/components/Ticker";
@@ -79,7 +80,7 @@ export default function Home() {
             return (
               <a
                 key={a[4]}
-                href={`/app/${a[4]}`}
+                href={`${BASE}/app/${a[4]}`}
                 className="group grid grid-cols-[1fr_auto] items-center gap-x-4 gap-y-2 py-4 sm:grid-cols-[180px_1fr_150px]"
               >
                 <div className="min-w-0">
